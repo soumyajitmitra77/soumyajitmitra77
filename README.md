@@ -3,6 +3,7 @@ Hi there 👋
 I'm Riju, a passionate learner, and explorer with a diverse skill set. Currently working as a Financial Analyst, I'm always eager to delve into new projects and technologies. My proficiency includes Python, C++, VBA, and SQL. 💻🚀
 
 Projects I've Worked On:
+
 a. Value Stream Mapping of Stakeholder Impacts from Rising Prosumers. 📈👥
 b. Enhancement of LVRT Capability of Doubly-fed Induction Generator based Wind Energy Conversion System using Space Vector Modulation. 🌬️⚙️
 c. Smart Light for Home with Automatic Direction and Intensity Adjustment using Arduino. 🏠💡
