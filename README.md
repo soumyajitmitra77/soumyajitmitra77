@@ -4,7 +4,7 @@ I'm Riju, a passionate learner, and explorer with a diverse skill set. Currently
 
 #### Here are a few projects I've worked on:
 - Value Stream Mapping of Stakeholder Impacts from Rising Prosumers. 📈👥
-- Enhancement of LVRT Capability of Doubly-fed Induction Generator based Wind Energy Conversion System using Space Vector Modulation. 🌬️⚙️
+- Enhancement of LVRT Capability of Doubly-fed Induction Generator based Wind Energy Conversion System using Space Vector Modulation. ⚙️
 - Smart Light for Home with Automatic Direction and Intensity Adjustment using Arduino. 🏠💡
 - Wireless Transmission of Electricity using a Tesla coil for a distance of up to 6 inches. ⚡🔌
 - Production of Electricity From Sea Water and Desalination Using Clean Energy. 🌊🔋
